@@ -3,16 +3,14 @@
 **Partner Research Manager** at Microsoft Research  
 Leading the MSR AI for Science Asia team  
 
-📧 `taoqin@microsoft.com` | [Microsoft Research Profile](https://www.microsoft.com/en-us/research/people/taoqin/)
+📧  [Microsoft Research Profile](https://www.microsoft.com/en-us/research/people/taoqin/)
 
 ---
 
 ## 🔬 Research Interests
-- **Deep Learning**: Machine Translation, Healthcare, Speech Synthesis/Recognition, Music Understanding/Composition
-- **Reinforcement Learning**: Games, Real-world Applications
-- **Game Theory & Multi-agent Systems**: Cloud Computing, Online/Mobile Advertising
-- **Information Retrieval & Computational Advertising**
-- **AI for Science**: Molecular Modeling/Drug Discovery, Biochemistry
+- **AI for Science**: Science Foundation Models, Molecular Modeling/Drug Discovery, Biochemistry, Material Design
+- **Deep Learning**: LLMs, Machine Translation, Healthcare, Speech Synthesis/Recognition, Music Understanding/Composition
+- **Reinforcement Learning**: RL for Science, Games, and Real-world Applications
 
 ---
 
@@ -36,7 +34,7 @@ First 10 DAN AI for Mahjong based on deep reinforcement learning with novel tech
 [[News]](https://www.microsoft.com/en-us/research/blog/suphx-achieving-new-milestones-in-the-game-of-mahjong/) [[Paper]](https://arxiv.org/abs/2003.13590)  
 [Review by human players (Japanese)](https://note.com/kokoroe/n/n9e6c0d1b5d3a)
 
-### 🗣️ FastSpeech & FastSpeech 2
+### 🗣️ FastSpeech series
 Novel feed-forward networks for parallel mel-spectrogram generation:
 - 270x faster mel-spectrogram generation
 - 38x faster end-to-end speech synthesis  
@@ -50,7 +48,7 @@ Integrated into Azure TTS with 70+ languages/locales and 200+ voices
 - **MASS algorithm** - first pre-training model for sequence-to-sequence generation [[Code]](https://github.com/microsoft/MASS) [[News]](https://www.microsoft.com/en-us/research/blog/microsoft-machines-set-new-standards-in-chinese-to-english-machine-translation/)
 
 ---
-
+<!-- 
 ## 📣 We Are Hiring!
 Seeking all levels of researchers with:
 - Strong coding skills
@@ -58,6 +56,7 @@ Seeking all levels of researchers with:
 📧 Contact: `taoqin@microsoft.com`
 
 ---
+-->
 
 ## 📚 Books & Surveys
 ### Books
@@ -133,7 +132,7 @@ Seeking all levels of researchers with:
 - **Deliberation Networks** (NIPS 2017)
 - **Dual Learning** (NIPS 2016)
 
-**[Full Publication List > 200+ Papers](https://www.microsoft.com/en-us/research/people/taoqin/publications/)**
+**[Full Publication List](https://scholar.google.com/citations?hl=en&user=Bl4SRU0AAAAJ)**
 
 ---
 
