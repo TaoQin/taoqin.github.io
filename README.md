@@ -1,9 +1,6 @@
 # Tao Qin (秦涛)
-
-**Partner Research Manager** at Microsoft Research  
-Leading the MSR AI for Science Asia team  
-
-📧  [Microsoft Research Profile](https://www.microsoft.com/en-us/research/people/taoqin/)
+**Vice Presendent** at Zhongguangcun Academy
+Previously Partner Research Manager at Microsoft Research, leading the MSR AI for Science Asia team  
 
 ---
 
@@ -15,12 +12,10 @@ Leading the MSR AI for Science Asia team
 ---
 
 ## 🚀 Recent Updates
-- Focus on **AI for science**
-- Action Editor for **Transactions on Machine Learning Research (TMLR)**
+- Accelerating protein engineering with fitness landscape modeling and RL [[Nature Machine Intelligence]](https://www.nature.com/articles/s42256-025-01103-w) [[Wechat article]](https://mp.weixin.qq.com/s/C65j-x6LHn_segjRkpdU0g)
 - **BioGPT**: GPT model for biomedical domain [[Paper]](https://arxiv.org/abs/2210.10341) [[Code/Model]](https://github.com/microsoft/BioGPT)
 - MPNet generates most effective sentence embeddings among ~40 pretrained models
 - **TD3 with Reverse KL Regularizer** selected as ICDM 2022 Best Student Paper Award runner-up
-- Accelerating protein engineering with fitness landscape modeling and RL (bioRxiv 2023)
 - Impact of Large Language Models on Scientific Discovery (Arxiv 2023)
 
 ---
@@ -164,3 +159,4 @@ Microsoft Research Asia
 [Team Website](https://www.microsoft.com/en-us/research/group/ai-for-science-asia/)
 
 > *"We are developing AI to accelerate scientific discovery - from molecular design to protein engineering and drug discovery."*
+
