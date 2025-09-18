@@ -12,7 +12,7 @@ Previously Partner Research Manager at Microsoft Research, leading the MSR AI fo
 ---
 
 ## 🚀 Recent Updates
-- Accelerating protein engineering with fitness landscape modeling and RL [[Nature Machine Intelligence]](https://www.nature.com/articles/s42256-025-01103-w) [[Wechat article]](https://mp.weixin.qq.com/s/C65j-x6LHn_segjRkpdU0g)
+- Accelerating protein engineering with fitness landscape modeling and RL, Nature Machine Intelligence 2025. [[paper]](https://www.nature.com/articles/s42256-025-01103-w) [[Wechat article]](https://mp.weixin.qq.com/s/C65j-x6LHn_segjRkpdU0g)
 - **BioGPT**: GPT model for biomedical domain [[Paper]](https://arxiv.org/abs/2210.10341) [[Code/Model]](https://github.com/microsoft/BioGPT)
 - MPNet generates most effective sentence embeddings among ~40 pretrained models
 - **TD3 with Reverse KL Regularizer** selected as ICDM 2022 Best Student Paper Award runner-up
@@ -159,4 +159,5 @@ Microsoft Research Asia
 [Team Website](https://www.microsoft.com/en-us/research/group/ai-for-science-asia/)
 
 > *"We are developing AI to accelerate scientific discovery - from molecular design to protein engineering and drug discovery."*
+
 
