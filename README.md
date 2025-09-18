@@ -1,5 +1,6 @@
 # Tao Qin (秦涛)
 **Vice Presendent** at Zhongguangcun Academy
+
 Previously Partner Research Manager at Microsoft Research, leading the MSR AI for Science Asia team  
 
 ---
@@ -159,5 +160,6 @@ Microsoft Research Asia
 [Team Website](https://www.microsoft.com/en-us/research/group/ai-for-science-asia/)
 
 > *"We are developing AI to accelerate scientific discovery - from molecular design to protein engineering and drug discovery."*
+
 
 
