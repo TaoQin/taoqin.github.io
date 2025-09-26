@@ -1,6 +1,5 @@
-# Tao Qin (秦涛)
-**Vice Presendent** at Zhongguangcun Academy
-
+% # Tao Qin (秦涛)
+# Vice Presendent at Zhongguangcun Academy
 Previously Partner Research Manager at Microsoft Research, leading the MSR AI for Science Asia team  
 
 ---
@@ -13,7 +12,10 @@ Previously Partner Research Manager at Microsoft Research, leading the MSR AI fo
 ---
 
 ## 🚀 Recent Updates
-- Accelerating protein engineering with fitness landscape modeling and RL, Nature Machine Intelligence 2025. [[paper]](https://www.nature.com/articles/s42256-025-01103-w) [[Wechat article]](https://mp.weixin.qq.com/s/C65j-x6LHn_segjRkpdU0g)
+- Accelerating protein engineering with fitness landscape modeling and RL. **Nature Machine Intelligence** 2025. [[paper]](https://www.nature.com/articles/s42256-025-01103-w) [[Wechat article]](https://mp.weixin.qq.com/s/C65j-x6LHn_segjRkpdU0g)
+- E2Former: An Efficient and Equivariant Transformer with Linear-Scaling Tensor Products. **NeurIPS** 2025.
+- Chain-of-Model Learning for Language Model. **NeurIPS** 2025.
+- High-Quality Zero-Shot Podcast Generation. **NeurIPS** 2025.
 - **BioGPT**: GPT model for biomedical domain [[Paper]](https://arxiv.org/abs/2210.10341) [[Code/Model]](https://github.com/microsoft/BioGPT)
 - MPNet generates most effective sentence embeddings among ~40 pretrained models
 - **TD3 with Reverse KL Regularizer** selected as ICDM 2022 Best Student Paper Award runner-up
@@ -49,7 +51,7 @@ Integrated into Azure TTS with 70+ languages/locales and 200+ voices
 Seeking all levels of researchers with:
 - Strong coding skills
 - Passion for machine learning research in natural science problems  
-📧 Contact: `taoqin@microsoft.com`
+📧 Contact: `qintao@bjzgca.edu.cn`
 
 ---
 -->
@@ -160,6 +162,7 @@ Microsoft Research Asia
 [Team Website](https://www.microsoft.com/en-us/research/group/ai-for-science-asia/)
 
 > *"We are developing AI to accelerate scientific discovery - from molecular design to protein engineering and drug discovery."*
+
 
 
 
